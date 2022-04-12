@@ -17,8 +17,10 @@ This allows me to devote myself to complex projects such as the creation and dev
 
 <!--Stats-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=diegomrno&show_icons=true&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=diegomrno&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
-  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=diegomrno&show_icons=true&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=diegomrno&theme=dark&date_format=M%20j%5B%2C%20Y%5D"> 
+</div>
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomrno&layout=compact&theme=dark">
 </div>
