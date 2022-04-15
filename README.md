@@ -11,7 +11,7 @@ I was born in ["the Bourgogne" in France](https://www.google.com/maps/place/Auxe
 
 Now I am a young student in the field of engineering, innovation, and technology in general. I love to learn, I have self-taught many skills such as low-level programming as well as high-level programming. 
 
-This allows me to devote myself to complex projects such as the creation and development of operating systems, applications and different types of software. To date, I have been able to design several websites with different solutions, prototypes of operating systems *(UNIX type and others)* and prototyping of *GNU/Linux distributions*. Mainly for learning purposes, but also for real personal or public projects.
+This allows me to devote myself to complex projects such as the creation and development of operating systems, applications and different types of software. To date, I have been able to design several websites with different solutions, and prototypes of operating systems *(UNIX type and others)* and prototyping *GNU/Linux' distributions*. Mainly for learning purposes, but also for real personal or public projects.
 
 ![Component 672](https://user-images.githubusercontent.com/101096931/163008913-031c9003-36bb-4123-8d48-9bd8209ad29c.png)
 
