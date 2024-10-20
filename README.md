@@ -33,6 +33,8 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 
 - Account Service - A user management microservice that handles user authentication and authorization. It leverages OAuth 2.1, two-factor authentication (2FA), and other security best practices to ensure account safety. Developed with PostgreSQL and Go, this service provides secure and scalable user management.
 
+- [Vortex Launcher](https://github.com/infiniteHQ/VortexLauncher) - The Vortex Installer is a straightforward utility designed to install or update the Vortex Launcher. It focuses exclusively on the launcher itself, without affecting the Vortex core or any other internal components. This tool ensures that only the launcher is kept up-to-date, leaving the rest of the system unchanged.
+
 - Vortex Feedback Service - A service dedicated to collecting and processing crash information from Vortex. It helps developers debug by providing detailed crash reports and insights. The service acts as a feedback loop to enhance application stability and performance.
   
 - Vortex Updates Service - The Vortex Updates Service is a microservice that helps all Vortex stacks update and retrieve the latest information for a specific Vortex distribution. The service also includes a "news" system, allowing Vortex stacks to display relevant updates to the user.
