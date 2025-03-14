@@ -7,24 +7,20 @@
   </h1>
 </a>
 
-Hello! I'm Diego, a passionate advocate for useful, relevant, and healthy technology. My mission is to make tech better, healthier, more secure, and more sustainable. I'm also the founder of Infinite.
+Hello! I'm **Diego**, a passionate advocate for useful, relevant, and healthy technology. My mission is to make tech better, healthier, more secure, and more sustainable. I'm also the founder of Infinite.
 
 Most of my work focuses on finding solutions to make technology healthier and more beneficial, while actively combating harmful practices and negative aspects. You can check out the [manifesto](https://infinite.si/manifesto) I follow for more details.
 
 <img height="60" src="./assets/works.png">
 
-
-- [Cherry](https://github.com/infiniteHQ/Cherry) - Cherry is a modern, minimalist yet comprehensive UI/UX framework for low-level native applications. It provides a complete solution, including backend support, a rendering engine, and UI components. Cherry is built using technologies like ImGui, Vulkan, and SDL, offering developers advanced tools to create efficient and high-performance interfaces.
-
-- [Vortex](https://github.com/infiniteHQ/Vortex) - Vortex is a comprehensive open creation platform offering a variety of tools for creators and developers. It enables the creation of systems, applications, services, and much more. Vortex empowers users with a robust set of features to bring their projects to life, regardless of complexity.
-
-- [Vortex Nodals (WIP)](https://github.com/infiniteHQ/Vortex) - Vortex Nodals is an advanced visual programming interface designed to make coding accessible to everyone, even without prior programming knowledge. It features powerful transpilers to support coding visually, and it includes extensive support for new languages like Rust, Go, and Zig. This tool simplifies complex programming tasks while remaining flexible for advanced use.
-
-- [Vortex Fusion (WIP)](https://github.com/infiniteHQ/Vortex) - Fusion is a toolset designed to make the development of systems, embedded systems, and applications easy and intuitive. It abstracts complex concepts, allowing developers to focus on the design, development, and production of their ideas without worrying about the underlying system complexities. Fusion is a gateway to rapid prototyping and efficient production workflows.
-
-- Hypernet - Hypernet is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking, Hypernet introduces new possibilities for innovative network designs and implementations.
-
-- Labs - Infinite Labs is a marketplace for makers, aimed at simplifying the process of creating and developing projects. It offers a variety of tools and resources to help creators streamline their workflows and enhance productivity, making it a go-to platform for innovators looking to bring their ideas to life more efficiently.
+|                | **Project**                                                                                                           | **Description**                                                                                                                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="./assets/cherry_logo.png" width="150">  | [**Cherry**](https://github.com/infiniteHQ/Cherry)                                                                  | Cherry is a modern, minimalist yet comprehensive UI/UX framework for low-level native applications. It provides a complete solution, including backend support, a rendering engine, and UI components. Built using technologies like ImGui, Vulkan, and SDL. |
+| <img src="./assets/vortex_logo.png" width="150"> | [**Vortex**](https://github.com/infiniteHQ/Vortex)                                                                  | Vortex is a comprehensive open creation platform offering a variety of tools for creators and developers. It enables the creation of systems, applications, services, and much more. |
+| <img src="./assets/vortex_logo.png" width="150"> | [**Vortex Nodals**](https://github.com/infiniteHQ/Vortex)                                                    | Vortex Nodals is an advanced visual programming interface designed to make coding accessible to everyone, even without prior programming knowledge. Features powerful transpilers to support coding visually and extensive support for new languages like Rust, Go, and Zig. |
+| <img src="./assets/vortex_logo.png" width="150"> | [**Vortex Fusion**](https://github.com/infiniteHQ/Vortex)                                                    | Fusion is a toolset designed to make the development of systems, embedded systems, and applications easy and intuitive. It abstracts complex concepts, allowing developers to focus on design, development, and production without worrying about underlying system complexities. |
+| <img src="./assets/vortex_logo.png" width="150"> | **Hypernet**                                                                                                       | Hypernet is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking. |
+| <img src="./assets/vortex_logo.png" width="150">   | **Labs**                                                                                                           | Infinite Labs is a sharing platform for makers, aimed at simplifying the process of creating and developing projects. It offers a variety of tools and resources to help creators streamline their workflows and enhance productivity. |
 
 
 <img height="60" src="./assets/sides.png">
