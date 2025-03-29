@@ -35,6 +35,14 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 | <img src="./assets/vortex_installer.png" width="150">  | [**Vortex Installer**](https://github.com/infiniteHQ/VortexInstaller)                                                                 |   The Vortex Installer is a straightforward utility designed to install or update the Vortex Launcher. It focuses exclusively on the launcher itself, without affecting the Vortex core or any other internal components. This tool ensures that only the launcher is kept up-to-date, leaving the rest of the system unchanged. |
 | <img src="./assets/vortex_logo.png" width="150">  | **API Gateway**                                                                 |    Built on [Janus](https://github.com/motiv-labs/janus), this API Gateway facilitates load balancing, rate limiting, service-to-service communication, and secure authentication. It acts as a central entry point for microservices, ensuring high availability and security while managing traffic flow efficiently. |
 | <img src="./assets/infinite_platform.png" width="150">  | **Store Service**                                                                 |    A backend service for managing an online oss marketplace or open ethical store. It includes an item editor for authenticated users, enabling item creation, updates, and distribution. Built with a focus on secure and efficient operations, this service handles the marketplace logic while ensuring proper access control. |
+| <img src="./assets/heart.png" width="150">  | **Funding Service**                                                                 |    A fullstack service for the funding system of Infinite. |
+
+
+## Side projects
+
+| **Project**                                                                                                           | **Description**                                                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Top Down Game**                                                                 | [Quick video of the prototype](https://www.youtube.com/watch?v=yEAfgGU4cqY&list=LL&index=9) This is a little side project with Raylib written in C to learn more about 3D rendering, math, and shaders. |
 
 > [!NOTE]  
 > Some repositories don't have links yet, as we are still stabilizing the libraries to avoid wasting the time of users who want to try them out. However, they will be available very soon :)
