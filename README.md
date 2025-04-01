@@ -7,7 +7,7 @@
   </h1>
 </a>
 
-Hello! I'm **Diego**, a passionate advocate for useful, relevant, and healthy technology. My mission is to make tech better, healthier, more secure, and more sustainable. I'm also the founder of Infinite.
+Hello! I'm **Diego**, a passionate advocate for useful, relevant, and healthy technology. My mission is to make tech better, healthier, more secure, and more sustainable. I'm also the founder of [**Infinite**](https://github.com/infiniteHQ).
 
 Most of my work focuses on finding solutions to make technology healthier and more beneficial, while actively combating harmful practices and negative aspects. You can check out the [manifesto](https://infinite.si/manifesto) I follow for more details.
 
