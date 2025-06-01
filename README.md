@@ -1,7 +1,7 @@
 <a href="https://infinite.si">
   <h1 align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.png">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pp1.png">
       <img height="" src="./assets/banner.png">
     </picture>
   </h1>
@@ -11,7 +11,9 @@ Hello! I'm **Diego**, a passionate advocate for useful, relevant, and healthy te
 
 Most of my work focuses on finding solutions to make technology healthier and more beneficial, while actively combating harmful practices and negative aspects. You can check out the [manifesto](https://manifesto.infinite.si/) I follow for more details.
 
-<img height="60" src="./assets/works.png">
+# My works on [Infinite](https://github.com/infiniteHQ)
+
+### Main Infinite projects
 
 |                | **Project**                                                                                                           | **Description**                                                                                                                                              |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,8 +25,7 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 | <img src="./assets/hypernet_logo.png" width="150"> | **Hypernet**                                                                                                       | Hypernet is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking. |
 | <img src="./assets/labs.png" width="150">   | **Labs**                                                                                                           | Infinite Labs is a sharing platform for makers, aimed at simplifying the process of creating and developing projects. It offers a variety of tools and resources to help creators streamline their workflows and enhance productivity. |
 
-
-<img height="60" src="./assets/sides.png">
+### Other Infinite projects
 
 |                | **Project**                                                                                                           | **Description**                                                                                                                                              |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +43,7 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 | <img src="./assets/heart.png" width="150">  | [**Funding Website**](https://fund.infinite.si/)                                                                 |    The frontend website of the funding website. |
 | <img src="./assets/heart.png" width="150">  | [**Accounts Website**](https://accounts.infinite.si/)                                                                 |    The frontend website of accounts website website. |
 
-## Side projects
+# My side projects
 
 | **Project**                                                                                                           | **Description**                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
