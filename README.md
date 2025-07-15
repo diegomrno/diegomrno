@@ -25,6 +25,14 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 | <img src="./assets/hypernet_logo.png" width="150"> | **Hypernet**                                                                                                       | Hypernet is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking. |
 | <img src="./assets/labs.png" width="150">   | **Labs**                                                                                                           | Infinite Labs is a sharing platform for makers, aimed at simplifying the process of creating and developing projects. It offers a variety of tools and resources to help creators streamline their workflows and enhance productivity. |
 
+### Around Infinite
+
+|                | **Project**                                                                                                           | **Description**                                                                                                                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="./assets/cherry_logo.png" width="150">  | **Infinite Websites**                                                                | WIP |
+| <img src="./assets/cherry_logo.png" width="150">  | **Infinite Services**                                                                | WIP |
+| <img src="./assets/cherry_logo.png" width="150">  | **Vortex**                                                                | WIP |
+
 # My side projects
 
 | **Project**                                                                                                           | **Description**                                                                                                                                              |
