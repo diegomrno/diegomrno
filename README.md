@@ -35,8 +35,12 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 > [!NOTE]  
 > Some repositories don't have links yet, as we are still stabilizing the libraries to avoid wasting the time of users who want to try them out. However, they will be available very soon :)
 
-Mail : 📧 - d@infinite.si
 
-Discord : 📧 - https://discord.com/invite/H2wptkecUg
+# Contact
 
-Website (Infinite) : 📧 - https://infinite.si/
+| **Type**                                                                                                           | ****                                                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pro mail**                                                                 | d@infinite.si |
+| **Discord**                                                                 | https://discord.com/invite/H2wptkecUg |
+| **Website (Infinite)**                                                                 | https://infinite.si/ |
+
