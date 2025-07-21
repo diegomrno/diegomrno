@@ -13,8 +13,6 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 
 # My works on [Infinite](https://github.com/infiniteHQ)
 
-### Main Infinite projects
-
 |                | **Project**                                                                                                           | **Description**                                                                                                                                              |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./assets/cherry_logo.png" width="150">  | [**Cherry**](https://github.com/infiniteHQ/Cherry)                                                                  | Cherry is a modern, minimalist yet comprehensive UI/UX framework for low-level native applications. It provides a complete solution, including backend support, a rendering engine, and UI components. Built using technologies like ImGui, Vulkan, and SDL. |
@@ -25,13 +23,13 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 | <img src="./assets/hypernet_logo.png" width="150"> | **Hypernet**                                                                                                       | Hypernet is an advanced networking technology designed around a sandbox paradigm, enabling extensive modding and customization. Originally created to push the boundaries of decentralized networking and environmental networking. |
 | <img src="./assets/labs.png" width="150">   | **Labs**                                                                                                           | Infinite Labs is a sharing platform for makers, aimed at simplifying the process of creating and developing projects. It offers a variety of tools and resources to help creators streamline their workflows and enhance productivity. |
 
-### Around Infinite
+### Around Infinite...
 
-|                | **Project**                                                                                                           | **Description**                                                                                                                                              |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./assets/cherry_logo.png" width="150">  | **Infinite Websites**                                                                | WIP |
-| <img src="./assets/cherry_logo.png" width="150">  | **Infinite Services**                                                                | WIP |
-| <img src="./assets/cherry_logo.png" width="150">  | **Vortex**                                                                | WIP |
+|                | **Project**                | **Description**                                                                                                                                              |
+|----------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="./assets/cherry_logo.png" width="450"> | **Infinite Websites**        | Design of the [main Infinite website](https://infinite.si/), the [Manifesto website](https://manifesto.infinite.si/), the [user and pro accounts website](https://accounts.infinite.si/), and the [funding platform](https://fund.infinite.si/).  |
+| <img src="./assets/cherry_logo.png" width="350"> | **Infinite Services**        | Implementation of a complete infrastructure to manage and automate all **Infinite services**, such as the **auth system**, **Infinite accounts**, **the blog**, **user badges**, **feedback and Vortex update services**, **funding services**, **forums**, and the **community store**. This setup enables testing and production deployment right after a commit/push, allowing error analysis through an advanced API Gateway that handles load balancing, rate limiting, service-to-service communication, secure authentication, and service redundancy, all contributing to a highly reliable and powerfull infrastructure. The architecture is organized as a microservices system grouped under this API gateway, combining the best of both microservices and centralized service models. The Infinite infrastructure also includes multiple high-level security measures at the system, execution, and service layers. Authentication relies on OAuth 2.1, two-factor authentication (2FA), and other security best practices to ensure account safety.  |
+| <img src="./assets/vortex_logo.png" width="350"> | **Around Vortex**                    | Design of the [Vortex website](https://vortex.infinite.si/), including feedback services and tools to manage production and updates, with stable, beta, and testing programs. Design of the [Vortex Launcher](https://github.com/infiniteHQ/VortexLauncher), allowing users to organize their Vortex environment, and creation of the [Vortex Installer](https://github.com/infiniteHQ/VortexInstaller), which makes it easy to install, update, and uninstall both Vortex and the Launcher. Design of the Vortex community store (WIP), enabling users to upload and retrieve content for creation and development purposes. Integration of a Vortex news system, which the Launcher checks to display the latest updates.|
 
 # My side projects
 
@@ -48,7 +46,7 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 
 | **Type**                                                                                                           |                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Pro mail**                                                                 | d@infinite.si |
+| **Mail** (Pro only)                                                                 | d @ infinite.si *(remove spaces)* |
 | **Discord**                                                                 | https://discord.com/invite/H2wptkecUg |
 | **Website (Infinite)**                                                                 | https://infinite.si/ |
 
