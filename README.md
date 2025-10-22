@@ -1,10 +1,10 @@
 <a href="https://infinite.si">
-  <h1 align="center">
+  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pp1.png">
       <img height="" src="./assets/ppl.png">
     </picture>
-  </h1>
+  </div>
 </a>
 
 ## 👋 Hello! I'm **Diego**
