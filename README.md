@@ -15,7 +15,9 @@ Most of my work focuses on finding solutions to make technology healthier and mo
 **About Infinite:**
 The Infinite's initiative is to create free, independent, and ethical technology and computing. Oriented around human & environmental values.
 
-`contact : d @ infinite.si` *(remove spaces)*
+--- 
+
+**contact :** `d @ infinite.si` `(remove spaces)`
 
 `gpg`<a href="https://github.com/diegomrno/diegomrno/blob/main/gpg-public-key.asc" title="PGP Public Key"><code>D330 44CD E0B8 8D56 D5CE 862D EACB 6AD7 7ADF 6F86</code></a>
 
